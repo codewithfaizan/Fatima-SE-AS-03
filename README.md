@@ -1,6 +1,6 @@
 # JavaScript Core Exercises
 
-A comprehensive collection of JavaScript exercises designed to help students master fundamental programming concepts. This repository contains structured exercises covering comparisons, conditionals, loops, functions, and real-world applications.
+A comprehensive collection of JavaScript exercises designed to help Miss Shagufta Fatima master fundamental programming concepts. This repository contains structured exercises covering comparisons, conditionals, loops, functions, and real-world applications.
 
 ---
 
@@ -1688,7 +1688,5 @@ This exercise set covers core JavaScript fundamentals:
 
 ---
 
-**Last Updated:** September 2026  
-**Created for:** Fatima SE AS-03 Students  
-**Prerequisites:** Basic JavaScript knowledge  
-**Language:** 99.6% JavaScript, 0.4% HTML
+**Last Updated:** 11 September 2026  
+**Created for:** Miss Shagufta Fatima
