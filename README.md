@@ -1675,7 +1675,7 @@ This exercise set covers core JavaScript fundamentals:
 - Use `console.log()` for debugging and displaying results
 - Practice regularly and revisit difficult concepts
 - Follow the 10-step student rule for every exercise
-
+- Complete on time and get some rest whenever needed
 ---
 
 ## Getting Help
