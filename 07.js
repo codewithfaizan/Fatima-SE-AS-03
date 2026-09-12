@@ -1,5 +1,4 @@
 const readlineSync = require('readline-sync');
-
 const a = parseFloat(readlineSync.question('Enter the first number: '));
 const b = parseFloat(readlineSync.question('Enter the second number: '));
 const result = a+b<4 ? "below" : "minor" ;
