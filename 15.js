@@ -2,7 +2,7 @@ const readlineSync = require('readline-sync');
 let userName = readlineSync.question('Enter username: ');
 let password = readlineSync.question ("enter password:");
 
-if (userName === "Admin" && password === "123") {
+if (userName === "Admin" ||"Manager" && password === "123") {
     console.log("Access granted");
 }else{
     console.log("Access denied");
