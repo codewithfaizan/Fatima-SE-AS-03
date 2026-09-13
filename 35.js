@@ -7,7 +7,7 @@ function checkAge(age) {
 }
 
 //  
-// console.log(checkAge(15)); // false
+console.log(checkAge(15)); // false
 
 // used AI for 9-10 line 
 
